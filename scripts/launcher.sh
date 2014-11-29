@@ -4,7 +4,7 @@
 #python script, then back home
 ntpdate -b -s -u pool.ntp.org
 cd /
-cd /home/root/scripts/
+cd /home/root/beaglebonebeachhose/scripts/
 python tempscript.py
 cd /
 
